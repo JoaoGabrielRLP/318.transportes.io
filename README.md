@@ -24,3 +24,5 @@ O site pode ser acessado diretamente pelo link acima. O código-fonte está disp
 
 Este repositório é de uso exclusivo do autor. O código-fonte está disponível apenas para consulta, e melhorias ou colaborações externas não são aceitas no momento.
 
+
+
